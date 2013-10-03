@@ -1,4 +1,0 @@
-TCC
-===
-
-Direction of Arrival
